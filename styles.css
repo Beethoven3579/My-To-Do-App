@@ -90,3 +90,8 @@ input:focus {
     margin-left: 90%;
     margin-top: .2em;
 }
+
+.lineThrough {
+    text-decoration: line-through;
+    color:rgb(90, 90, 90);
+}
