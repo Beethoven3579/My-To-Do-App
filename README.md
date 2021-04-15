@@ -2,7 +2,7 @@
 
 ### This is a simple Todo list application that uses HTML CSS anf Vanilla Javavscript
  
-#### You can use the app [here](https://beethoven3579.github.io/My-To-Do-App/) 
+#### You can test the app [here](https://beethoven3579.github.io/My-To-Do-App/) 
 
 ![](ToDoScreenshot.png)
 
